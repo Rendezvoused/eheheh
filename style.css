@@ -9,7 +9,7 @@ text-align:justify;
 background-position:fixed;
 width:692px;
 height:370px;
-margin:auto;
+margin:auto;cursor:url(https://i.postimg.cc/Px4ysW9f/tiny.png),auto;
 }
 
 sup, sub {
@@ -83,7 +83,7 @@ border:1px solid #353535;
 -o-transition: all 0.6s ease-in-out;
 -ms-transition: all 0.6s ease-in-out;
 transition: all 0.6s ease-in-out;
-cursor:pointer;
+cursor:url(https://i.postimg.cc/262QXzLV/tinyhover.png),auto;
 line-height:100%;
 }
 
@@ -114,7 +114,7 @@ transition: all 0.6s ease-in-out;
 -o-transition: all 0.6s ease-in-out;
 -ms-transition: all 0.6s ease-in-out;
 transition: all 0.6s ease-in-out;
-cursor:pointer;
+cursor:url(https://i.postimg.cc/262QXzLV/tinyhover.png),auto;
 }
 
 .todo:hover {
@@ -144,7 +144,7 @@ transition: all 0.6s ease-in-out;
 -o-transition: all 0.6s ease-in-out;
 -ms-transition: all 0.6s ease-in-out;
 transition: all 0.6s ease-in-out;
-cursor:pointer;
+cursor:url(https://i.postimg.cc/262QXzLV/tinyhover.png),auto;
 }
 
 .todo2:hover {
@@ -257,7 +257,7 @@ transition: all 0.6s ease-in-out;
 -o-transition: all 0.3s ease-in-out;
 -ms-transition: all 0.3s ease-in-out;
 transition: all 0.3s ease-in-out;
-vertical-align:middle;
+vertical-align:middle;cursor:url(https://i.postimg.cc/262QXzLV/tinyhover.png),auto;
 }
 
 .loginplus a {
@@ -269,13 +269,13 @@ vertical-align:middle;
 -o-transition: all 0.3s ease-in-out;
 -ms-transition: all 0.3s ease-in-out;
 transition: all 0.3s ease-in-out;
-vertical-align:middle;
+vertical-align:middle;cursor:url(https://i.postimg.cc/262QXzLV/tinyhover.png),auto;
 }
 
 .loginplus:hover {
     background:rgba(54, 54, 52, 0.93);
     color:white;
-    cursor:pointer;
+    cursor:url(https://i.postimg.cc/262QXzLV/tinyhover.png),auto;
     -webkit-transition: all 0.3s ease-in-out;
 -moz-transition: all 0.3s ease-in-out;
 -o-transition: all 0.3s ease-in-out;
@@ -312,7 +312,7 @@ transition: all 0.3s ease-in-out;
 -o-transition: all 0.6s ease-in-out;
 -ms-transition: all 0.6s ease-in-out;
 transition: all 0.6s ease-in-out;
-cursor:pointer;
+cursor:url(https://i.postimg.cc/262QXzLV/tinyhover.png),auto;
 }
 
 .round:hover {
@@ -323,16 +323,16 @@ cursor:pointer;
 -o-transition: all 0.6s ease-in-out;
 -ms-transition: all 0.6s ease-in-out;
 transition: all 0.6s ease-in-out;
-cursor:pointer;
+cursor:url(https://i.postimg.cc/262QXzLV/tinyhover.png),auto;
 }
 
-.round:hover .round2 {
+.round:hover .round2 .iconify{
     transform:scale(0.8);
     -webkit-transition: all 0.6s ease-in-out;
 -moz-transition: all 0.6s ease-in-out;
 -o-transition: all 0.6s ease-in-out;
 -ms-transition: all 0.6s ease-in-out;
-transition: all 0.6s ease-in-out;
+transition: all 0.6s ease-in-out;cursor:url(https://i.postimg.cc/262QXzLV/tinyhover.png),auto;
 }
 
 .round .iconify {
@@ -359,7 +359,7 @@ transition: all 0.6s ease-in-out;
 -o-transition: all 0.6s ease-in-out;
 -ms-transition: all 0.6s ease-in-out;
 transition: all 0.6s ease-in-out;
-transform:scale(0.9);
+transform:scale(0.9);cursor:url(https://i.postimg.cc/262QXzLV/tinyhover.png),auto;
 }
 
 .titleside {
@@ -441,7 +441,7 @@ line-height:100%;
     padding-bottom:7px;
     line-height:180%;
     border-bottom:1px solid #353535;
-    cursor:pointer;
+    cursor:url(https://i.postimg.cc/262QXzLV/tinyhover.png),auto;
 }
 
 .tglatest {
@@ -457,12 +457,12 @@ line-height:100%;
     width:35px;
     height:35px;
     
-    -webkit-filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);cursor:url(https://i.postimg.cc/262QXzLV/tinyhover.png),auto;
     
 }
 
 .tgcontactinfo {
-    font-size:9px;
+    font-size:9px;cursor:url(https://i.postimg.cc/262QXzLV/tinyhover.png),auto;
 }
 
 .dp {
@@ -475,7 +475,7 @@ line-height:100%;
 .tguser {
     float:right;
     font-weight:300;
-    color:#898989;
+    color:#898989;cursor:url(https://i.postimg.cc/262QXzLV/tinyhover.png),auto;
 }
 
 .tgbio {
@@ -485,14 +485,14 @@ line-height:100%;
     padding-bottom:5px;
     height:37px;
     overflow:hidden;
-    border-bottom:1px solid #353535;
+    border-bottom:1px solid #353535;cursor:url(https://i.postimg.cc/262QXzLV/tinyhover.png),auto;
 }
 
 .tgbiotitle {
     font-size:9px;
     opacity:0.8;
     margin-top:3px;
-    cursor:pointer;
+    cursor:url(https://i.postimg.cc/262QXzLV/tinyhover.png),auto;
 }
 
 .tgbiotitle span:hover {
@@ -515,7 +515,7 @@ line-height:100%;
     opacity:0.8;
     padding-bottom:5px;
     border-bottom:1px solid #353535;
-    cursor:pointer;
+   cursor:url(https://i.postimg.cc/262QXzLV/tinyhover.png),auto;
 }
 
 .newphoto .iconify {
